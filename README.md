@@ -38,7 +38,6 @@
 - [ ] Browser cache is used efficiently
 - [ ] ETags is not used
 - [ ] Expires, cache-control and max-age headers for static resources is set to 1 year
-
 - [ ] Asychronous or deferred loading of non-critical content
 - [ ] Tracking scripts loaded asynchronously
 
@@ -89,14 +88,12 @@ Usually I measure the main pages of a project here.
 - [ ] Meta descriptions used
 - [ ] Meta keywords used
 - [ ] Meta title is filled correctly
-
 - [ ] Keywords used in headlines
 - [ ] Images use the `alt`-attribute
 - [ ] Links use a `title`-attribute
 - [ ] Links in navigation do not use `title`-attribute
 - [ ] No Duplicate Content
 - [ ] Usage of absolute URLs
-
 - [ ] Internal links point to HTTPS version of page
 - [ ] Redirects are done with 301
 - [ ] No 404-errors
